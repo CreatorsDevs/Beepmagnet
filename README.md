@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://imgur.com/GHxu58W)](https://status.beepmagnet.com/beepmagnetcoin) [![Download wallet](https://img.shields.io/badge/downloads-latest%20client-blue.svg)](https://SGWzqFxDyNgXoFHyyiaBkv/gitlab/repo/) [![OK Network](https://img.shields.io/badge/network%20status-stable-brightgreen.svg)](http://explorer.beepmagnet.com)  
 
 # BeepMAGNET International Ltd
@@ -37,3 +38,6 @@ Issues with no commits will be given a similar warning, and closed after
 labelled 'stale'.
 
 
+=======
+# Beepmagnet
+>>>>>>> 60852708a3524867f4aeae8dd1611f885985d2d4
