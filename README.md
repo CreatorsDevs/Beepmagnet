@@ -33,6 +33,3 @@ in this manner will have their corresponding issue labelled 'stagnant'.
 Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labelled 'stale'.
-
-
-# Beepmagnet
