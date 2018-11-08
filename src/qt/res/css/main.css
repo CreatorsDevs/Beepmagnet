@@ -137,7 +137,7 @@ tbody tr.selected td:hover {
 
 .pagination.selected,
 .pagination:hover {
-    background:#0165a2!important;
+    background:#cfb53a!important;
 }
 
 /* Vertical Menu */
@@ -559,7 +559,7 @@ article {
             background:
                     -webkit-linear-gradient(45deg, transparent, transparent 33%, rgba(0, 0, 0, 0.1) 33%, rgba(0, 0, 0, 0.1) 66%, transparent 66%),
                     -webkit-linear-gradient(top, rgba(255, 255, 255, 0.25), rgba(0, 0, 0, 0.2)),
-                    -webkit-linear-gradient(left, #0165a2, #0165a4);
+                    -webkit-linear-gradient(left, #cfb53a, #cfb53b);
 
             /* Looks great, now animating it */
             background-size: 25px 14px, 100% 100%, 100% 100%;
@@ -602,7 +602,7 @@ article {
 #navpanel .selected [href='#chaindata']:before,
 #navpanel .selected [href='#blockdata']:before,
 #navpanel .selected [href='#news']:before {
-    background: #0165a2;
+    background: #cfb53a;
 }
 
 #navpanel [href='#overview']:before {
@@ -784,14 +784,14 @@ small screens.
 }
 
 .footable.okcash {
-    border-color: #0165a4;
+    border-color: #cfb53b;
 }
 .footable.okcash > tfoot > tr > th,
 .footable.okcash > thead > tr > th,
 .footable.okcash > tfoot > tr > td,
 .footable.okcash > thead > tr > td {
-    background-color: #0165a4;
-    border-color: #0165a4;
+    background-color: #cfb53b;
+    border-color: #cfb53b;
 }
 
 .footable > thead > tr > th,.footable > thead > tr > td {
@@ -1355,21 +1355,21 @@ label.recipient {
 }
 
 .button.is-inverse {
-  background: #0165a4;
+  background: #cfb53b;
 
   color: white;
 }
 
 .button.is-inverse:hover,
 .button.is-inverse:focus {
-  background: #01395c;
+  background: #d4af37;
 
   text-decoration: none;
 }
 
 .button.is-inverse:active,
 .button.is-inverse.is-active {
-  background-color: #01395c;
+  background-color: #d4af37;
 }
 
 .button.is-link {
@@ -1771,7 +1771,7 @@ label.recipient {
     text-align: center;
     display: block;
     color: #fff;
-    background: #0165a4;
+    background: #cfb53b;
     -webkit-border-radius: 5;
     -moz-border-radius: 5;
     border-radius: 5px;
@@ -1782,25 +1782,25 @@ label.recipient {
 
 .left-bar :hover,
 .left-bar :focus {
-  background: #01395c;
+  background: #d4af37;
   text-decoration: none;
 }
 
 .left-bar :active,
 .left-bar .is-active {
   border-color: #353b43;
-  background-color: #01395c;
+  background-color: #d4af37;
 }
 
 .right-bar :hover,
 .right-bar :focus {
-  background: #01395c;
+  background: #d4af37;
   text-decoration: none;
 }
 
 .right-bar :active,
 .right-bar .is-active {
-    background-color: #01395c;
+    background-color: #d4af37;
 }
 
 .text-box .left-bar a {
@@ -1839,7 +1839,7 @@ label.recipient {
     margin-left: 5px;
 }
 .text-box .right-bar a.submit:hover i {
-    background: #01395c;
+    background: #d4af37;
     text-decoration: none;
 }
 
@@ -1891,7 +1891,7 @@ label.recipient {
 }
 
 .red {
-    color: #0165a4;
+    color: #cfb53b;
 }
 
 .orange {
@@ -2067,7 +2067,7 @@ Hides the menu at `56.625em`, but modify this based on your app's needs.
 
     .user-avatar .user-notifications span {
         display: initial;
-        background: #0165a4;
+        background: #cfb53b;
         border-radius: 100%;
         font-size: 10px;
         padding-top: 1px;
